@@ -1,0 +1,15 @@
+/*  main css file for porfolio page */
+body {
+    box-sizing: border-box;
+}
+
+#container {
+    margin: auto;
+    max-width: 1500px;
+    display: flex;
+    background-color: Azure;
+}
+
+header h1 h2 {
+}
+
