@@ -23,7 +23,7 @@ header {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
 }
 
 h1, h2 {
@@ -31,6 +31,8 @@ h1, h2 {
     color: #2d3c49;
     font-weight: 100;
     margin: 0px;
+    transform: scale(1.1,1);
+    margin-right: 25px;
 }
 
 hr {
