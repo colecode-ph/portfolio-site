@@ -1,7 +1,7 @@
 /*  main css file for porfolio page */
 body {
     box-sizing: border-box;
-    font-family: Helvetica, sans-serif;
+    font-family: Roboto,Helvetica, sans-serif;
 }
 
 #container {
@@ -19,6 +19,7 @@ header {
 #headertext {
     float: right;
     margin-top: 25px;
+    text-align: right;
 }
 
 h1 {
