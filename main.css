@@ -1,15 +1,40 @@
 /*  main css file for porfolio page */
 body {
     box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
 }
 
 #container {
     margin: auto;
     max-width: 1500px;
-    display: flex;
-    background-color: Azure;
+    /* background-color: Azure; */
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
-header h1 h2 {
+header {
+    margin-top:45px
+}
+
+#headertext {
+    float: right;
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    color: #2d3c49;
+    font-weight: 100;
+    margin: 0px;
+}
+
+hr {
+    background-color: #7d97ad;
+    height: 5px;
+    border: none;
 }
 
