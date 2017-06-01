@@ -86,7 +86,6 @@ hr {
     width: 386px;
     height: 246px;
     max-width: 100%;
-    /* max-height: 100%; */
 }
 
 #project_container h2 {
@@ -107,6 +106,24 @@ hr {
 
 }
 
+/* footer styles */
+
+footer hr {
+    margin-bottom: 5px;
+}
+
+#css_validator {
+    float: left;
+    margin-top: 0px;
+}
+
+#copyright {
+    text-transform: uppercase;
+    float: right;
+    margin-top: 0px;
+    color: #2d3c49;
+}
+
 /* responsive style breakpoints */
 
 @media screen and (max-width: 1535px){
@@ -124,6 +141,7 @@ hr {
     #project_container h2 {font-size: 25px;}
     #project_container img {/* height: auto; */}
     .project {padding-right: 25px;}
+    #copyright {font-size: .75em}
 }
 
 @media screen and (max-width: 450px){
