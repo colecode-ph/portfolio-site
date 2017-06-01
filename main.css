@@ -89,7 +89,7 @@ hr {
     /* max-height: 100%; */
 }
 
-#project_container h1 {
+#project_container h2 {
     text-transform: uppercase;
     font-size: 35px;
     font-weight: 400;
@@ -121,7 +121,7 @@ hr {
     #container {padding-left: 5px; padding-right: 5px;}
     hr {margin-bottom: 20px}
     #featured_work {font-size: 25px; margin-left: 5px;}
-    #project_container h1 {font-size: 25px;}
+    #project_container h2 {font-size: 25px;}
     #project_container img {/* height: auto; */}
     .project {padding-right: 25px;}
 }
