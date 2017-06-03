@@ -25,4 +25,4 @@ The site also contains five image files:
 ## How to make it work
 
 1. Clone the repository with the following command: `git clone https://github.com/colecode-ph/portfolio-site.git`
-2. Open the file index.html in your browswer
+2. Open the file index.html in your browser
